@@ -1,0 +1,7 @@
+name = "rev-proxy"
+type = "javascript"
+account_id = "e742f13a9cf0858a6deb3627548049be"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-04-24"
